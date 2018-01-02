@@ -1,2 +1,2 @@
 # tirumala
-tirumala repository
+welcome tirumala tirupathi
